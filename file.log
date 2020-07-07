@@ -1,0 +1,29 @@
+2020-07-07 20:57:25,418 - DEBUG - Started downloading 6 photos.
+2020-07-07 20:57:25,574 - DEBUG - Starting new HTTPS connection (1): images.unsplash.com:443
+2020-07-07 20:57:25,892 - DEBUG - https://images.unsplash.com:443 "GET /photo-1569936929562-f9d47d6789ea?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80 HTTP/1.1" 200 33473
+2020-07-07 20:57:25,958 - DEBUG - Starting new HTTPS connection (1): images.unsplash.com:443
+2020-07-07 20:57:26,126 - DEBUG - https://images.unsplash.com:443 "GET /photo-1586812896097-03355c83a5a2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80 HTTP/1.1" 200 104001
+2020-07-07 20:57:26,309 - DEBUG - Starting new HTTPS connection (1): images.unsplash.com:443
+2020-07-07 20:57:26,469 - DEBUG - https://images.unsplash.com:443 "GET /photo-1593728453770-7e3ab63dfff3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80 HTTP/1.1" 200 24065
+2020-07-07 20:57:26,532 - DEBUG - Starting new HTTPS connection (1): images.unsplash.com:443
+2020-07-07 20:57:26,697 - DEBUG - https://images.unsplash.com:443 "GET /photo-1593792628761-9915abd5bb46?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=401&q=80 HTTP/1.1" 200 71141
+2020-07-07 20:57:26,850 - DEBUG - Starting new HTTPS connection (1): images.unsplash.com:443
+2020-07-07 20:57:27,012 - DEBUG - https://images.unsplash.com:443 "GET /photo-1534415769476-35430bd3bb6c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=751&q=80 HTTP/1.1" 200 86242
+2020-07-07 20:57:27,165 - DEBUG - Starting new HTTPS connection (1): images.unsplash.com:443
+2020-07-07 20:57:27,326 - DEBUG - https://images.unsplash.com:443 "GET /photo-1593444461581-b5ae72d3b637?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80 HTTP/1.1" 200 75453
+2020-07-07 20:57:27,456 - DEBUG - Finished downloading. It took 2.0375925289999994 seconds
+
+2020-07-07 21:05:19,893 - DEBUG - Started downloading 6 photos.
+2020-07-07 21:05:20,086 - DEBUG - Starting new HTTPS connection (1): images.unsplash.com:443
+2020-07-07 21:05:20,088 - DEBUG - Starting new HTTPS connection (1): images.unsplash.com:443
+2020-07-07 21:05:20,091 - DEBUG - Starting new HTTPS connection (1): images.unsplash.com:443
+2020-07-07 21:05:20,091 - DEBUG - Starting new HTTPS connection (1): images.unsplash.com:443
+2020-07-07 21:05:20,092 - DEBUG - Starting new HTTPS connection (1): images.unsplash.com:443
+2020-07-07 21:05:20,092 - DEBUG - Starting new HTTPS connection (1): images.unsplash.com:443
+2020-07-07 21:05:20,441 - DEBUG - https://images.unsplash.com:443 "GET /photo-1593728453770-7e3ab63dfff3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80 HTTP/1.1" 200 24065
+2020-07-07 21:05:20,450 - DEBUG - https://images.unsplash.com:443 "GET /photo-1593444461581-b5ae72d3b637?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80 HTTP/1.1" 200 75453
+2020-07-07 21:05:20,493 - DEBUG - https://images.unsplash.com:443 "GET /photo-1593792628761-9915abd5bb46?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=401&q=80 HTTP/1.1" 200 71141
+2020-07-07 21:05:20,502 - DEBUG - https://images.unsplash.com:443 "GET /photo-1534415769476-35430bd3bb6c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=751&q=80 HTTP/1.1" 200 86242
+2020-07-07 21:05:20,550 - DEBUG - https://images.unsplash.com:443 "GET /photo-1569936929562-f9d47d6789ea?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80 HTTP/1.1" 200 33473
+2020-07-07 21:05:21,483 - DEBUG - https://images.unsplash.com:443 "GET /photo-1586812896097-03355c83a5a2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80 HTTP/1.1" 200 104001
+2020-07-07 21:05:22,141 - DEBUG - Finished downloading. It took 2.2485819010000005 seconds
